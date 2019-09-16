@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am alirazz1 on github.
+  * I am alirazz (https://keybase.io/alirazz) on keybase.
+  * I have a public key ASCqXT364XKzAa3EVYVCfWEpS_7Vgc-Chkc269Gz-nGtCAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207c4112cc0cf285bbb092b72ac930cd8f9a7dba19fcc454576f95ab0dae1d7dea0a",
+      "host": "keybase.io",
+      "kid": "0120aa5d3dfae172b301adc45585427d61294bfed581cf82864736ebd1b3fa71ad080a",
+      "uid": "ea666d6adf26caa555fc5c675f781419",
+      "username": "alirazz"
+    },
+    "merkle_root": {
+      "ctime": 1568599345,
+      "hash": "98f3959014341ba6934adf45b4a9cd57ddf2e1d17815203daba6c2c9ff85eeb1502ec718699f6c2d9a1301a85c0f8939d4441def9a8efb315d0ef0843eaaa6af",
+      "hash_meta": "bd97b431830841882c0f7b5e8b479bd2427de9f0caa9e7038ec0aec734dad7d9",
+      "seqno": 7428915
+    },
+    "service": {
+      "entropy": "HhYw7WNp701Gxe9ssodAeoAj",
+      "name": "github",
+      "username": "alirazz1"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568599402,
+  "expire_in": 504576000,
+  "prev": "f5398adf9d44af63196d008f1e8f644987c24ee83212d9fbf2ebb68fc98ba0e0",
+  "seqno": 9,
+  "tag": "signature"
+}
+```
+
+with the key [ASCqXT364XKzAa3EVYVCfWEpS_7Vgc-Chkc269Gz-nGtCAo](https://keybase.io/alirazz), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgql09+uFyswGtxFWFQn1hKUv+1YHPgoZHNuvRs/pxrQgKp3BheWxvYWTESpcCCcQg9TmK351Er2MZbQCPHo9kSYfCTugyEtn78uu2j8mLoODEIBzWc181a1tpQ7rrCV/Y59kpDGnBBvDSPR3E8eXvHgd6AgHCo3NpZ8RA14sqUjWoJIhzCp/oRHy0d5F6AdJC2A/ohl+6nRLYLgyL1OQDteUwcA7VpRLgchx3lHX3Y+tlsycrkSJTdblQBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGsVJW/4R7y9Sxzs5O2musxONXg3pvWABqRJHJduc3Kbo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/alirazz
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id alirazz
+```
